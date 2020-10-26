@@ -1,0 +1,8 @@
+{
+    "appSettings":[{
+    "mainUrl": "https://vk.com/",
+    "secondUrl" : "https://vk.com/",
+    "state" : "0",
+    "randomState": "15"
+    }
+]}
